@@ -1,5 +1,7 @@
 #### SMARTCALC 2.0
 
+## English
+
 Calculator, based on task by School21
 
 Calculator is able to:
