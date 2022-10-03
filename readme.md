@@ -4,11 +4,11 @@ Calculator, based on task by School21
 
 Calculator is able to:
 
-> Calculate simple expressions, such as 2+2 or 7/5
-> Calculate trigonometric functions
-> Calculate expressions with X value
-> Plot functions graphs (powered by QtCharts lib)
-> Calculate credit payments depending on term, total sum and monthly payment value
+- Calculate simple expressions, such as 2+2 or 7/5
+- Calculate trigonometric functions
+- Calculate expressions with X value
+- Plot functions graphs (powered by QtCharts lib)
+- Calculate credit payments depending on term, total sum and monthly payment value
 
 In future release maybe I will add deposit calculator
 
